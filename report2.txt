@@ -1,0 +1,6 @@
+name='Orange Almond Lace Cookies ', price=94, rating=3.125, calories=28, protein=0, fat=2, sodium=0
+name='Potato Samosa Tartlets ', price=82, rating=3.75, calories=25, protein=0, fat=1, sodium=26
+name='Orange Almond Lace Cookies ', price=94, rating=3.125, calories=28, protein=0, fat=2, sodium=0
+name='Scallion Cilantro Pancakes ', price=71, rating=2.5, calories=27, protein=1, fat=1, sodium=149
+name='Cabbage Slaw ', price=13, rating=4.375, calories=27, protein=1, fat=0, sodium=389
+name='Spiced Shrimp ', price=33, rating=4.375, calories=26, protein=3, fat=1, sodium=117

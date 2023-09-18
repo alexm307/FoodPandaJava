@@ -1,0 +1,21 @@
+client id: 1 order id: 1 order date: 2021-05-24T22:42:39.656383200
+name='Red and Green Tomato Salsa ', price=38, rating=3.125, calories=23, protein=1, fat=0, sodium=552name='Arugula Salad with Heirloom Tomatoes and Red Onion ', price=21, rating=2.5, calories=24, protein=1, fat=0, sodium=12name='Toasted Corn Crisps ', price=66, rating=2.5, calories=24, protein=0, fat=2, sodium=37name='Beef Stock ', price=61, rating=5.0, calories=24, protein=4, fat=1, sodium=83name='Master Stock Chicken ', price=39, rating=3.75, calories=25, protein=2, fat=1, sodium=61name='Chipotle Tomato Salsa ', price=98, rating=5.0, calories=26, protein=1, fat=0, sodium=40name='Red Bell Pepper and Coriander Pancakes with Smoked Salmon ', price=42, rating=3.125, calories=26, protein=1, fat=1, sodium=27name='Prosciutto-Wrapped Asparagus Spears ', price=25, rating=4.375, calories=27, protein=2, fat=2, sodium=149name='Parmesan Walnut Salad in Endive Leaves ', price=29, rating=4.375, calories=27, protein=1, fat=2, sodium=46name='Orange Almond Lace Cookies ', price=94, rating=3.125, calories=28, protein=0, fat=2, sodium=0
+Total price was 513
+client id: 1 order id: 2 order date: 2021-05-24T22:42:43.098177800
+name='Hot-and-Sour Cabbage Salad ', price=14, rating=3.75, calories=25, protein=2, fat=0, sodium=75
+Total price was 14
+client id: 1 order id: 3 order date: 2021-05-24T22:42:44.890386800
+name='Coriander-Herb Spice Rub ', price=51, rating=3.75, calories=24, protein=1, fat=1, sodium=1911
+Total price was 51
+client id: 1 order id: 4 order date: 2021-05-24T22:42:46.722485800
+name='Steamed Mussels with Tomato and Chorizo Broth ', price=42, rating=5.0, calories=25, protein=2, fat=1, sodium=65
+Total price was 42
+client id: 1 order id: 5 order date: 2021-05-24T22:42:48.210506700
+name='Homemade Montreal Steak Seasoning ', price=74, rating=5.0, calories=27, protein=1, fat=1, sodium=1910
+Total price was 74
+client id: 1 order id: 6 order date: 2021-05-24T22:42:49.762358400
+name='Poppy Seed Crackers ', price=35, rating=3.75, calories=27, protein=1, fat=1, sodium=50
+Total price was 35
+client id: 1 order id: 7 order date: 2021-05-24T22:42:51.538606700
+name='Scallion Cilantro Pancakes ', price=71, rating=2.5, calories=27, protein=1, fat=1, sodium=149
+Total price was 71
